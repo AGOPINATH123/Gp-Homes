@@ -1,2 +1,3 @@
 hello mike
-hello  hike line is added
+
+git remote add origin https://github.com/AGOPINATH123/Gp-Homes.git
